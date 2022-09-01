@@ -1,0 +1,4 @@
+opencv-python~=4.3.0
+mediapipe~=0.6
+comtypes~=1.0.1
+pycaw
